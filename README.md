@@ -87,7 +87,9 @@ o	User is given an option to filter this data.
 o	User can filter data dynamically on drop down item change.
 o	User can also filter for multiple condition. 
 
-#Heroku Deployment Completed for the above project. Link is https://race-to-gold.herokuapp.com/
+#Heroku Deployment Completed for the above project. 
+Link1:https://race-to-gold.herokuapp.com/
+Link2(old): https://olympics-race-to-gold.herokuapp.com/
 
 Presentation: https://docs.google.com/presentation/d/179ypX_-Zxhn2IEcdcR50fiDmQTCdIkHbL24VL_0bgPk/edit?usp=sharing
 
