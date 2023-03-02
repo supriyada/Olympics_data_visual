@@ -5,6 +5,12 @@
 #Purpose:
 The purpose of the project is to study and show different trends and visualization based on the Olympic Summer Games data from 1986 to 2016. 
 
+#Heroku Deployment Completed for the above project. 
+Link1:https://race-to-gold1.herokuapp.com/
+Link2(old): https://olympics-race-to-gold.herokuapp.com/
+
+#Presentation: https://docs.google.com/presentation/d/179ypX_-Zxhn2IEcdcR50fiDmQTCdIkHbL24VL_0bgPk/edit?usp=sharing
+
 #Visualization libraries used:
 	Packed bubble chart (`HighCharts.js`)
 	Stacked bar chart (`Plotly.js`) 
@@ -87,11 +93,7 @@ o	User is given an option to filter this data.
 o	User can filter data dynamically on drop down item change.
 o	User can also filter for multiple condition. 
 
-#Heroku Deployment Completed for the above project. 
-Link1:https://race-to-gold.herokuapp.com/
-Link2(old): https://olympics-race-to-gold.herokuapp.com/
 
-Presentation: https://docs.google.com/presentation/d/179ypX_-Zxhn2IEcdcR50fiDmQTCdIkHbL24VL_0bgPk/edit?usp=sharing
 
 
 
