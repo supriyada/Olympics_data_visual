@@ -5,7 +5,7 @@
 #Purpose:
 The purpose of the project is to study and show different trends and visualization based on the Olympic Summer Games data from 1986 to 2016. 
 
-#Heroku Deployment Completed for the above project. 
+#Heroku Deployment: 
 Link1:https://race-to-gold1.herokuapp.com/
 Link2(old): https://olympics-race-to-gold.herokuapp.com/
 
